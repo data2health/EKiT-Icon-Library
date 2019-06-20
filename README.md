@@ -5,7 +5,7 @@ Engagement effectiveness icon library
 The benefits of engagement for recruiting and retaining study participants are clear. As biomedical research is becoming more digitally based, there is a pressing need to build capacity in the evaluation of approaches to engage study participants in this setting.
 
 ## Project description
-This project will provide a library of icons and plain text descriptions of metrics to assess the effectiveness of digital engagment products.
+The Engagement Toolkit (EKiT) project will provide a library of icons and plain text descriptions of metrics to assess the effectiveness of digital engagment products.
 
 ## Contact person
 
