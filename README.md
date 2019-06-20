@@ -1,7 +1,7 @@
 # EKiT-Icon-Library
 Engagement effectiveness icon library
 
-# Problem statement
+## Problem statement
 The benefits of engagement for recruiting and retaining study participants are clear. As biomedical research is becoming more digitally based, there is a pressing need to build capacity in the evaluation of approaches to engage study participants in this setting.
 
 ## Project description
