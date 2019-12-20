@@ -15,4 +15,4 @@ Casey Overby Taylor (overbyc) | Johns Hopkins University
 
 ## Repositories
 
-https://github.com/translational-informatics/engagement-toolkit
+https://github.com/tirilab/engagement-toolkit
